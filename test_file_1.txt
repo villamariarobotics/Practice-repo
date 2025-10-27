@@ -13,6 +13,6 @@ Once you've written, click "commit changes" (top right corner). When you commit,
 
 
 
-
+sup -Su
 
 
