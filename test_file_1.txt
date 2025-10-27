@@ -4,9 +4,9 @@ Write a (friendly! no insults pls) message here. Be sure to add your name so we 
 
 
 hello guys! -Su
-yo whats up 67
+yo whats up 67 -Eric
 
-
+a (friendly! no insults pls) message here. -Su
 
 
 Once you've written, click "commit changes" (top right corner). When you commit, you need to describe / name what you changed. For this example, a clever name isn't nessecary, so just write whatever you want and click commit.
